@@ -1,8 +1,8 @@
-flexapp
+## Charro's Portfolio
 =======
 
-See our [documentation](http://github.differential.io/flexapp)
+In this website, you can find all the necessary information about me.
+Like my portfolio, my LinkedIn and my apps in the play store.
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/BeDifferential/flexapp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Feel free to contact me.
 
